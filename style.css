@@ -13,6 +13,9 @@ header {
   background-color: #fff9f4;
   min-height: 100vh;
 }
+.branches {
+  background-color: #faf4ef;
+}
 nav.my-nav {
   background-color: #fff9f4;
 }
@@ -58,4 +61,8 @@ nav.my-nav {
 }
 .item-img img {
   width: 70px;
+}
+.fa-map-signs {
+  color: #fa804c;
+  font-size: 65px;
 }
